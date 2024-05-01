@@ -20,20 +20,6 @@ O projeto cobre uma variedade de APIs do Spring Boot, incluindo, mas não se lim
 
 4. **API de Tratamento de Exceções:** Mostra como lidar com exceções de maneira eficaz em aplicativos Spring Boot, personalizando respostas HTTP de erro e implementando tratamentos globais de exceções.
 
-## Como Utilizar
-
-Para executar este projeto localmente, siga estas etapas:
-
-1. **Clone o Repositório:** Faça uma cópia deste repositório em sua máquina local usando o comando `git clone`.
-
-2. **Configure o Ambiente:** Certifique-se de ter o JDK e o Maven instalados em sua máquina.
-
-3. **Compile o Projeto:** Navegue até o diretório raiz do projeto e execute o comando `mvn clean package` para compilar o projeto e construir o artefato.
-
-4. **Execute o Aplicativo:** Após a conclusão da compilação, execute o aplicativo usando o comando `java -jar nome_do_arquivo.jar`, onde `nome_do_arquivo.jar` é o nome do arquivo JAR gerado no diretório `target`.
-
-5. **Teste as Funcionalidades:** Use uma ferramenta como Postman ou cURL para enviar solicitações HTTP aos endpoints fornecidos pelo aplicativo e observe as respostas retornadas.
-
 ## Contribuição
 
 Contribuições para melhorar e expandir este projeto são bem-vindas! Sinta-se à vontade para enviar pull requests com novos recursos, correções de bugs ou melhorias na documentação.
